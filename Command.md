@@ -2,7 +2,7 @@
 
 >### **Git command**
 
-####Git config
+#### Git config
 ```javascript
 //删除文件本地保留远程删除
 git rm --cached 
